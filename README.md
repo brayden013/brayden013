@@ -24,3 +24,4 @@
 </div>
 <h2>Education</h2>
 Mountainland Technical College <a href="https://github.com/BraydenB-13" target="_Blank">Repository</a>
+Brigham Young University-Idaho <a href="https://github.com/braydenbarger" targer="_Blank">Repository</a>
