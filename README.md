@@ -25,4 +25,4 @@
 <h2>Education</h2>
 Mountainland Technical College <a href="https://github.com/BraydenB-13" target="_Blank">Repository</a>
 <br>
-Brigham Young University-Idaho <a href="https://github.com/braydenbarger" targer="_Blank">Repository</a>
+Brigham Young University-Idaho <img height="20px" src="https://brightspotcdn.byui.edu/dims4/default/da76c…5aef8b82a86ee39d0%2Fbyui-offical-logo-blue-01.png /> <a href="https://github.com/braydenbarger" targer="_Blank">Repository</a>
